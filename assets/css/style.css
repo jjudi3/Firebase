@@ -1,0 +1,16 @@
+.jumbotron{
+	background-color: lightgray;
+	background-image: url("assets/images/train-background.jpg");
+}
+
+.jumbotron h1 {
+	color: #fff;
+}
+
+.fa-train{
+	color: gray;
+}
+
+h5 {
+	color: red;
+}
